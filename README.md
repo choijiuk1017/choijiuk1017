@@ -1,9 +1,5 @@
 <div align="center">
 
-# 안녕하세요, 게임 클라이언트 프로그래머 최지욱입니다 👋
-
-플레이어가 자연스럽게 받아들이는 움직임과 반응을 코드로 구현합니다.
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-프로젝트%20보러가기-78A9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://choijiuk1017.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/EMAIL-jiuk5192%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiuk5192@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-ji__uk__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ji__uk_/)
