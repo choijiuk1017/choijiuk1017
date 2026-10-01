@@ -43,7 +43,7 @@
 | 프로젝트 | 소개 | 기술 |
 |:--|:--|:--|
 | **[EBON CROWN](https://github.com/choijiuk1017/EBON_CROWN)** | 전투, AI, 애니메이션, UI와 세이브 시스템을 구현한 3인칭 소울라이크 액션 RPG | `C++` `Unreal Engine 5` |
-| **[EXCUTE](https://github.com/choijiuk1017/Excute)** | 전투와 퍼즐 플레이를 중심으로 제작한 3D 게임 프로젝트 | `Unity` `C#` |
+| **[EXCUTE](https://github.com/choijiuk1017/Excute)** | Unreal Engine 5로 제작한 3D 액션 RPG 프로젝트 | `C++` `Unreal Engine 5` |
 | **[PROJECT_SMILE](https://github.com/choijiuk1017/Project_Smile)** | 게임 화면 분석과 상황별 힌트 생성을 연결한 AI 기반 퍼즐 힌트 시스템 | `Unreal Engine` `C++` `Python` |
 | **[KEMET](https://github.com/choijiuk1017/Kemet)** | 상태와 전투 흐름을 분리해 설계한 이집트 신화 배경의 2D 액션 게임 | `Unity` `C#` |
 | **[SLAP SQUAD](https://github.com/choijiuk1017/SLAP_SQUAD)** | 서로 다른 무기와 캐릭터로 대전하는 3D PvP 게임 | `Unity` `C#` |
