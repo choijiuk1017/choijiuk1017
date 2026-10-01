@@ -64,7 +64,7 @@
 ## 📊 GitHub
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijiuk1017&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="최지욱의 주요 사용 언어" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=choijiuk1017&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="최지욱의 GitHub 통계" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=choijiuk1017&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="최지욱의 GitHub 통계" />
 
 </div>
 
